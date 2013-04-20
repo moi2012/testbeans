@@ -7,5 +7,8 @@ public class Testgitbeans {
     public static void main(String[] args)
     {
         System.out.println("mon premier test git et netbeans");
+         System.out.println("mon deuxiemme test git et netbeans");
+
     }
+    
 }
